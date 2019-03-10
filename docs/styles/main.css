@@ -186,29 +186,21 @@ p a:hover {
 }
 
 .bg-tmobile {
-  background: #FC8EAC;
   background-image: url("../images/cards/card-01.png");
-  /*background-image: url("../images/cards/emmim.png"), linear-gradient(0deg, #F99D8B, #FC8EAC);*/
   background-position: 0% 0%;
 }
 .bg-berkeley {
-  background: #5E5E5E;
   background-image: url("../images/cards/card-02.png");
-  /*background-image: url("../images/cards/sparkresume.png"), linear-gradient(0deg, #576270, #182F7B);*/
   background-position: 50% 0%;
 }
 
 .bg-uow {
-  background: #5E5E5E;
   background-image: url("../images/cards/card-03.png");
-  /*background-image: url("../images/cards/luck.png"), linear-gradient(0deg, #F9D797, #D4AD5A);*/
   background-position: 50% 0%;
 }
 
 .bg-apple {
-  background: #E98034;
   background-image: url("../images/cards/card-04.png");
-  /*background-image: url("../images/cards/calcucafe.png"), linear-gradient(0deg, #F4BA67, #E98034);*/
   background-position: 50% 0%;
 }
 
